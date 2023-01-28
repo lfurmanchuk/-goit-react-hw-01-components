@@ -4,6 +4,7 @@ import { App } from 'components/App';
 import './index.css';
 
 export * from './components/Profile/Profile';
+export * from './components/Statistics/Statistics';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
