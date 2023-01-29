@@ -13,6 +13,8 @@ export const Section = styled.section`
 export const SectionWrap = styled.div`
    padding-top: 20px;
    background-color: white;
+   box-shadow: rgb(0 0 0 / 12%) 0px 1px 3px, rgb(0 0 0 / 14%) 0px 1px 1px, rgb(0 0 0 / 20%) 0px 2px 1px;
+   border-radius: 5px;
 `;
 
 export const SectionTitle = styled.h2`
