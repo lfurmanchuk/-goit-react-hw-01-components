@@ -10,6 +10,11 @@ export const Section = styled.section`
   background-color: rgba(217, 213, 213, 0.5); 
 `;
 
+export const SectionWrap = styled.div`
+   padding-top: 20px;
+   background-color: white;
+`;
+
 export const SectionTitle = styled.h2`
   width: 100%;
   text-align: center;
