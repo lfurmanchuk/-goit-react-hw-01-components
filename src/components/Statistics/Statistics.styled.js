@@ -2,18 +2,20 @@ import styled from '@emotion/styled';
 
 export const Section = styled.section`
   margin: 0px auto;
-  max-width: 480px;
-  background-color: rgb(255, 255, 255);
+  margin-bottom: 60px;
+  max-width: 400px;
   box-shadow: rgb(0 0 0 / 12%) 0px 1px 3px, rgb(0 0 0 / 14%) 0px 1px 1px, rgb(0 0 0 / 20%) 0px 2px 1px;
-  border-radius: 0px 0px 4px 4px;
+  border-radius: 5px;
+  padding: 60px;
+  background-color: rgba(217, 213, 213, 0.5); 
 `;
 
 export const SectionTitle = styled.h2`
-  font-weight: 700;
-  text-transform: uppercase;
-  padding: 30px;
+  width: 100%;
+  text-align: center;
   color: grey;
-  text-align: center; 
+  margin-bottom: 20px; 
+  text-transform: uppercase;
 `;
 
 export const StatisticsList = styled.ul`

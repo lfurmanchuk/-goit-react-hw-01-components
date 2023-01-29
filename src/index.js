@@ -5,6 +5,8 @@ import './index.css';
 
 export * from './components/Profile/Profile';
 export * from './components/Statistics/Statistics';
+// export * from './components/FriendList/FriendList';
+// export * from './components/FriendListItem/FriendListItem';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
