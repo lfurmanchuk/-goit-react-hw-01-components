@@ -16,12 +16,9 @@ export const FriendListStyle = styled.ul`
   flex-direction: column;
   align-items: center;
   gap: 20px;
-  margin: 0;
-  padding: 0;
 `;
 
 export const FriendTitle = styled.h2`
-  width: 100%;
   text-align: center;
   color: grey;
   margin-bottom: 20px;

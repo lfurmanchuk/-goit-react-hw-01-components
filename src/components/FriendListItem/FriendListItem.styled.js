@@ -5,7 +5,6 @@ export const Item = styled.li`
   align-items: center;
   padding: 10px;
   padding-left: 40px;
-  margin: 0;
   width: 340px;
   gap: 30px;
   background-color: white;
@@ -25,7 +24,7 @@ export const Stats = styled.span`
       case false:
         return 'red';
       default:
-        return 'grey';
+        return 'gray';
     }
   }};
 `;

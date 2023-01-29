@@ -10,7 +10,7 @@
 }
 
 .profile {
-    background-color: #fff;
+    background-color: white;
     width: auto;
     padding-top: 30px;
     border-radius: 5px;
@@ -57,7 +57,7 @@
     text-align: center;
     width: calc(100% / 3);
     padding: 20px 5px;
-    background-color: rgba(210, 223, 236, 0.637);
+    background-color: rgb(182, 231, 245);
 }
 
 .label {
